@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\obj\Debug\ProjAula15032021.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\obj\Debug\ProjAula15032021.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\bin\Debug\ProjAula15032021.exe.config
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\bin\Debug\ProjAula15032021.exe
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\bin\Debug\ProjAula15032021.pdb
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\bin\Debug\Model.dll
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\bin\Debug\Model.pdb
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\obj\Debug\ProjAula15032021.csproj.CopyComplete
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\obj\Debug\ProjAula15032021.exe
+C:\Users\gabri\source\repos\ProjAula15032021\ProjAula15032021\obj\Debug\ProjAula15032021.pdb

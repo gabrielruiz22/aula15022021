@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\ProjAula15032021\Model\bin\Debug\Model.dll
+C:\Users\gabri\source\repos\ProjAula15032021\Model\bin\Debug\Model.pdb
+C:\Users\gabri\source\repos\ProjAula15032021\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ProjAula15032021\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProjAula15032021\Model\obj\Debug\Model.dll
+C:\Users\gabri\source\repos\ProjAula15032021\Model\obj\Debug\Model.pdb
