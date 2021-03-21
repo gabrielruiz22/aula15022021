@@ -11,7 +11,6 @@ namespace ProjAula15032021
     {
         static void Main(string[] args)
         {
-            double mediaSalario = 0, mediaFilho = 0, maior = 0, menor150 = 0, perc = 0;
             Cidade c = new Cidade();
 
             for (int i = 0; i < c.listHabitantes.Length; i++)

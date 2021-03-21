@@ -47,6 +47,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlgoritmoIdadePessoa.cs" />
+    <Compile Include="VotosCidade.cs" />
+    <Compile Include="ComissaoCarro.cs" />
+    <Compile Include="ComissaoVendas.cs" />
+    <Compile Include="IMC.cs" />
+    <Compile Include="ComissaoSalario.cs" />
+    <Compile Include="VerificarNumerosIguais.cs" />
+    <Compile Include="VerificaTriangulo.cs" />
     <Compile Include="HabitantesCidade.cs" />
     <Compile Include="LerValoresInteiros.cs" />
     <Compile Include="MediaAritmetica.cs" />
