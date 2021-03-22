@@ -36,7 +36,7 @@ namespace ConsoleApp1
                 N3 = double.Parse(Console.ReadLine());
             }
 
-            Numeros numero = new Numeros()
+            Numero numero = new Numero()
             {
                 N1 = N1,
                 N2 = N2,

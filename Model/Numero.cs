@@ -13,6 +13,11 @@ namespace Model
         public int N { get; set; }
         public int Inicio = 15;
         public int Fim = 100;
+        public double maior, media;
+
+        public double N1 { get; set; }
+        public double N2 { get; set; }
+        public double N3 { get; set; }
         #endregion
 
         #region Método
@@ -48,6 +53,53 @@ namespace Model
                 qtd++;
             }
             return soma / qtd;
+        }
+
+        public double verificaNumeros()
+        {
+            if (this.N1 > this.N2 && this.N1 > this.N3)
+            {
+
+                return this.maior = this.N1;
+            }
+            else if (this.N2 > this.N1 && this.N2 > this.N3)
+            {
+
+                return this.maior = this.N2;
+            }
+            else
+            {
+                return this.maior = N3;
+            }
+
+        }
+
+        public string verificaTriangulo()
+        {
+            if (this.N1 < (this.N2 + this.N3))
+            {
+                if (this.N2 < (this.N3 + this.N1))
+                {
+                    if (this.N3 < (this.N1 + this.N2))
+                    {
+
+                        return "É um triangulo";
+                    }
+                    else
+                    {
+
+                        return "Não é um triangulo";
+                    }
+                }
+                else
+                {
+                    return "Não é um triangulo";
+                }
+            }
+            else
+            {
+                return "Não é um triangulo";
+            }
         }
         #endregion
 

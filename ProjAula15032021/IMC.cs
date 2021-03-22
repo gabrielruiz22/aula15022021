@@ -23,7 +23,7 @@ namespace ConsoleApp1
             Console.WriteLine("Informe seu sexo (F ou M):  ");
             sexo = (Console.ReadLine().ToUpper());
 
-            Pessoa1 pessoaIMC = new Pessoa1()
+            Pessoa pessoaIMC = new Pessoa()
             {
                 altura = altura,
                 nome = nome,

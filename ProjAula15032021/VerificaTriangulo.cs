@@ -22,7 +22,7 @@ namespace ConsoleApp1
             Console.WriteLine("Informe o  3Nº: ");
             L3 = int.Parse(Console.ReadLine());
 
-            Numeros lados = new Numeros()
+            Numero lados = new Numero()
             {
                 N1 = L1,
                 N2 = L2,
